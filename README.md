@@ -14,6 +14,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. 
 
 ## Program:
+
+/*
+Program to find the solution of a matrix using Gaussian Elimination.
 Developed by:RITHVIK S
 RegisterNumber:25007067
 import numpy as np
@@ -38,12 +41,7 @@ for i in range(n-2,-1,-1):
         x[i]=x[i]-a[i][j]*x[j]
     x[i]=x[i]/a[i][i]
 for i in range(n):
-    print('X%d = %0.2f'%(i,x[i]),end=' ')
-```
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
+    print('X%d = %0.2f'%(i,x[i]),end=' ') 
 */
 ```
 
