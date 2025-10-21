@@ -48,6 +48,8 @@ RegisterNumber:
 ```
 
 ## Output:
+<img width="772" height="434" alt="Screenshot 2025-10-21 123257" src="https://github.com/user-attachments/assets/1b2dc901-a42c-459f-9230-6fd6dcb7dd64" />
+
 ![gaussian elimination]()
 
 
